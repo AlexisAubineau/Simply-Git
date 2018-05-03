@@ -2,7 +2,7 @@
 Commencez par cloner le projet :
 git clone https://github.com/AlexisAubineau/Simply-Git.git
 
- Utilisez la commande  **node simply-git.js**  pour commencer lancer le programme
+ Utilisez la commande  **node simply-git.js**  pour commencer et lancer le programme
 
 vous verrez afficher la liste des commandes possible avec simply-git.
 ```
