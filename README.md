@@ -13,7 +13,7 @@ vous verrez afficher la liste des commandes possible avec simply-git.
 ```
 
 ## Utilisation
-Avant toute chose utiliser l'option **-s** ou  **--ssh**  et suivez le tuto pour relier votre clé ssh a votre compte github.
+Avant toute chose utiliser l'option **-s** ou  **--ssh**  et suivez le tuto pour relier votre clé ssh à votre compte github.
 
 ![
 ](https://lh3.googleusercontent.com/A2LxGbOqzWMhP_A_48iNOSLS6sd1cW1T1Dot6lf0twNlDBuJNgd_KtZJ1d0-vTo7uvsAXKQMhN4 "Tutoriel")
@@ -21,11 +21,11 @@ Avant toute chose utiliser l'option **-s** ou  **--ssh**  et suivez le tuto pour
 
 Vous pouvez entrer le nom de votre répertoire github, puis entrer une description pour le répertoire (Optionnel).
 Ensuite vous pouvez sélectionner de mettre votre répertoire en privé ou en public.
-Sélectionnez ensuite les dossiers/fichiers que vous voulez ignorer.
+Sélectionnez les dossiers/fichiers que vous voulez ignorer.
 L'envoie sur votre répertoire ce fait ensuite.
 
 
-![enter image description here](https://lh3.googleusercontent.com/dHLx7UB6MMlrAcN_ookNEMzpoZScNctZWMFuPb4UgUXksYrCCDXhiQDe-M9_Yu5Ax5so664_3yU "premier push")
+![enter image description here](https://lh3.googleusercontent.com/dHLx7UB6MMlrAcN_ookNEMzpoZScNctZWMFuPb4UgUXksYrCCDXhiQDe-M9_Yu5Ax5so664_3yU "Push")
 
 Si vous entrez l'option **-r** ou **--remove** vous pourrez supprimer le **.git** et le fichier **.gitingnore** contenue dans le dossier et ainsi créer un nouveau répertoire à partir du dossier.
 
